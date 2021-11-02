@@ -9,7 +9,7 @@
   "homepage": "https://github.com/nmccready/google-maps-utility-library-v3-infobox",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nmccready/google-maps-utility-library-v3-infobox.git"
+    "url": "git+https://github.com/nmccready/google-maps-utility-library-v3-infobox.git"
   },
   "author": "Gary Little (inspired by proof-of-concept code from Pamela Fox of Google)",
   "contributors": [
